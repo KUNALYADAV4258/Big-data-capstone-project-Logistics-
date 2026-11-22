@@ -1,0 +1,340 @@
+asset_id,traffic_status,delay_reason,transit_status,telematics_pings,avg_waiting_time_mins,avg_asset_utilization_pct,avg_temperature_c,avg_humidity_pct,total_delay_incidents,severe_wait_incidents,temperature_alerts
+Truck_7,Clear,No Delay,In Transit,7,41.29,83.63,23.63,65.53,0,5,1
+Truck_5,Clear,Traffic,Delayed,4,36.0,83.23,25.8,61.47,4,2,0
+Truck_10,Clear,Weather,In Transit,3,40.33,74.33,22.57,75.83,0,3,0
+Truck_8,Heavy,Mechanical Failure,In Transit,5,45.0,78.84,22.34,70.36,5,4,0
+Truck_5,Detour,Weather,Delayed,3,46.33,81.83,25.73,63.47,3,3,1
+Truck_4,Detour,No Delay,In Transit,2,11.5,84.45,23.6,61.25,0,0,0
+Truck_1,Detour,Traffic,In Transit,2,32.5,65.55,25.25,60.25,0,1,0
+Truck_6,Clear,Weather,In Transit,6,35.5,81.82,25.35,64.03,0,5,1
+Truck_10,Clear,Weather,Delayed,4,17.5,75.43,22.12,62.9,4,0,1
+Truck_5,Heavy,Mechanical Failure,In Transit,1,43.0,71.1,22.4,57.9,1,1,0
+Truck_10,Heavy,No Delay,In Transit,6,29.17,89.4,22.97,58.38,6,3,0
+Truck_3,Heavy,Weather,Delivered,4,46.5,74.58,23.78,69.85,4,3,1
+Truck_3,Heavy,Mechanical Failure,Delivered,2,34.0,77.15,27.7,72.3,2,2,1
+Truck_6,Heavy,Mechanical Failure,Delivered,4,31.75,76.5,23.8,64.95,4,2,1
+Truck_5,Clear,Mechanical Failure,Delivered,3,24.33,74.83,22.27,72.83,0,1,0
+Truck_8,Clear,Weather,Delivered,3,44.0,80.97,23.47,58.5,0,2,1
+Truck_2,Clear,Traffic,Delayed,2,28.5,74.35,18.95,64.7,2,1,0
+Truck_3,Clear,No Delay,In Transit,3,36.0,88.0,24.63,64.77,0,2,0
+Truck_3,Clear,Mechanical Failure,Delayed,2,47.0,84.95,26.6,59.9,2,2,0
+Truck_3,Clear,Traffic,Delivered,1,48.0,83.3,21.6,60.9,0,1,0
+Truck_5,Heavy,No Delay,In Transit,1,30.0,67.6,26.3,59.4,1,1,0
+Truck_10,Clear,Mechanical Failure,Delivered,2,53.0,75.25,21.7,53.8,0,2,0
+Truck_1,Heavy,Mechanical Failure,Delivered,2,47.5,68.75,25.15,58.8,2,2,0
+Truck_2,Detour,Traffic,Delayed,2,21.0,80.7,23.2,54.5,2,1,0
+Truck_10,Heavy,Traffic,In Transit,3,19.33,87.43,25.67,65.03,3,0,1
+Truck_7,Detour,Traffic,In Transit,1,53.0,95.4,27.1,59.8,0,1,0
+Truck_3,Detour,No Delay,In Transit,2,49.0,82.2,27.45,64.3,0,2,0
+Truck_10,Detour,Traffic,Delivered,3,33.0,80.0,25.97,62.47,0,2,2
+Truck_4,Clear,Traffic,Delayed,4,40.75,72.03,24.92,65.05,4,3,1
+Truck_1,Clear,No Delay,Delivered,2,26.5,69.9,29.0,69.35,0,1,2
+Truck_7,Heavy,No Delay,Delayed,3,42.0,75.83,22.6,59.37,3,3,0
+Truck_7,Detour,Mechanical Failure,Delivered,2,43.5,87.85,22.55,64.15,0,2,0
+Truck_7,Heavy,Mechanical Failure,In Transit,1,53.0,87.4,25.3,54.4,1,1,0
+Truck_2,Heavy,Mechanical Failure,Delayed,3,38.67,88.6,23.13,69.33,3,2,0
+Truck_10,Detour,No Delay,Delivered,3,26.67,80.5,26.53,66.43,0,1,0
+Truck_10,Detour,Weather,In Transit,2,27.0,80.5,23.7,62.1,0,1,0
+Truck_4,Detour,Mechanical Failure,Delayed,4,29.5,89.32,25.03,63.4,4,2,2
+Truck_1,Detour,Traffic,Delivered,8,34.88,81.13,24.71,68.48,0,5,1
+Truck_5,Detour,Traffic,Delayed,1,24.0,70.6,23.6,51.7,1,0,0
+Truck_8,Detour,Traffic,In Transit,2,36.0,87.45,25.25,74.6,0,1,1
+Truck_10,Clear,Traffic,Delayed,3,37.0,79.0,23.67,67.4,3,2,0
+Truck_7,Heavy,Traffic,Delivered,4,40.5,87.13,24.6,65.77,4,3,1
+Truck_10,Heavy,No Delay,Delivered,6,25.5,76.87,25.43,66.05,6,2,0
+Truck_3,Detour,No Delay,Delivered,4,39.75,77.13,21.68,62.72,0,3,0
+Truck_3,Heavy,No Delay,Delivered,3,29.33,86.53,23.2,65.07,3,1,0
+Truck_7,Heavy,Weather,Delivered,3,26.33,91.67,22.67,66.53,3,1,0
+Truck_6,Detour,No Delay,Delivered,3,49.0,75.23,23.97,67.3,0,3,0
+Truck_7,Detour,No Delay,In Transit,1,41.0,62.1,20.1,57.0,0,1,0
+Truck_3,Clear,Weather,Delayed,3,41.67,75.3,24.13,59.03,3,3,1
+Truck_5,Heavy,Mechanical Failure,Delivered,1,32.0,77.6,19.4,66.6,1,1,0
+Truck_7,Heavy,Mechanical Failure,Delayed,2,35.5,95.25,25.45,56.45,2,1,0
+Truck_9,Clear,No Delay,Delivered,6,21.83,70.88,24.58,66.42,0,2,1
+Truck_9,Clear,No Delay,Delayed,5,23.8,69.32,21.62,58.64,5,2,0
+Truck_2,Detour,No Delay,Delivered,9,34.33,81.2,24.18,63.41,0,5,1
+Truck_3,Detour,Traffic,In Transit,4,33.0,87.15,23.75,64.25,0,2,1
+Truck_9,Detour,Mechanical Failure,In Transit,1,54.0,83.4,26.1,72.1,0,1,0
+Truck_4,Heavy,Traffic,Delayed,4,28.25,74.13,22.65,62.25,4,2,0
+Truck_5,Clear,Traffic,In Transit,3,34.0,84.27,23.57,66.67,0,2,0
+Truck_6,Detour,Traffic,Delayed,2,39.5,66.9,24.35,60.55,2,1,0
+Truck_5,Heavy,Weather,Delivered,3,20.67,77.13,26.73,62.8,3,0,0
+Truck_8,Clear,Traffic,In Transit,3,44.33,74.7,25.2,72.03,0,3,0
+Truck_6,Detour,Mechanical Failure,Delivered,1,27.0,62.2,19.5,67.9,0,0,0
+Truck_8,Heavy,Traffic,Delayed,2,22.0,80.6,27.35,72.5,2,0,1
+Truck_2,Heavy,No Delay,In Transit,4,31.0,86.1,26.75,70.7,4,2,1
+Truck_5,Clear,Mechanical Failure,In Transit,3,33.0,79.0,23.2,71.8,0,2,0
+Truck_8,Clear,No Delay,Delayed,1,21.0,82.8,21.0,52.8,1,0,0
+Truck_8,Heavy,Traffic,In Transit,4,44.0,81.88,23.3,64.15,4,3,1
+Truck_1,Detour,Mechanical Failure,In Transit,1,34.0,85.0,25.2,51.8,0,1,0
+Truck_1,Clear,Traffic,In Transit,1,32.0,98.8,25.2,67.6,0,1,0
+Truck_10,Detour,Mechanical Failure,Delayed,2,41.0,80.6,25.3,66.1,2,2,0
+Truck_5,Heavy,Traffic,Delayed,4,33.0,75.23,25.8,61.55,4,2,0
+Truck_8,Heavy,Weather,Delivered,1,32.0,62.5,20.6,71.5,1,1,0
+Truck_2,Detour,Mechanical Failure,Delayed,1,23.0,86.6,26.4,75.4,1,0,0
+Truck_10,Detour,Traffic,In Transit,3,34.33,69.3,20.3,66.17,0,1,0
+Truck_1,Detour,No Delay,In Transit,2,36.5,77.6,27.05,63.25,0,1,1
+Truck_8,Detour,Traffic,Delivered,1,40.0,61.5,29.4,65.9,0,1,1
+Truck_9,Heavy,Traffic,Delivered,6,29.5,76.17,24.9,60.65,6,2,2
+Truck_5,Detour,No Delay,Delayed,4,39.75,71.63,24.8,67.58,4,3,0
+Truck_2,Detour,No Delay,In Transit,5,35.4,72.02,24.94,63.44,0,4,1
+Truck_5,Detour,Weather,Delivered,3,29.33,82.87,27.1,71.1,0,1,1
+Truck_4,Clear,Mechanical Failure,Delayed,3,29.33,75.1,24.87,53.9,3,1,1
+Truck_10,Detour,Weather,Delayed,5,32.8,76.84,22.2,70.46,5,2,0
+Truck_2,Clear,Traffic,In Transit,3,29.33,80.5,23.73,60.07,0,2,1
+Truck_4,Detour,Mechanical Failure,In Transit,7,43.14,73.86,24.84,64.79,0,5,0
+Truck_3,Detour,Weather,Delivered,4,45.0,73.9,24.1,53.5,0,3,1
+Truck_8,Detour,Mechanical Failure,Delivered,7,23.43,82.03,24.81,64.94,0,1,1
+Truck_3,Clear,Mechanical Failure,In Transit,2,32.0,77.6,21.1,63.7,0,1,0
+Truck_2,Detour,Mechanical Failure,Delivered,2,39.0,82.0,25.95,63.1,0,1,0
+Truck_6,Clear,Weather,Delayed,5,40.0,71.02,26.64,61.2,5,4,3
+Truck_6,Detour,Traffic,In Transit,3,40.33,76.87,26.97,65.43,0,2,1
+Truck_1,Detour,No Delay,Delayed,4,47.0,75.58,24.13,61.83,4,4,1
+Truck_7,Detour,Traffic,Delayed,2,23.0,69.9,23.8,63.4,2,0,0
+Truck_9,Heavy,Weather,Delivered,1,20.0,83.4,29.6,73.7,1,0,1
+Truck_4,Heavy,No Delay,Delayed,3,27.0,73.47,26.9,70.27,3,2,1
+Truck_9,Clear,Mechanical Failure,Delayed,2,28.0,92.5,24.55,65.25,2,1,0
+Truck_9,Clear,Mechanical Failure,In Transit,3,38.67,84.13,27.6,61.1,0,2,1
+Truck_4,Detour,Mechanical Failure,Delivered,3,42.0,84.93,26.33,68.7,0,3,1
+Truck_1,Clear,Weather,In Transit,2,55.0,92.45,21.3,69.05,0,2,0
+Truck_2,Clear,No Delay,Delayed,4,47.5,69.58,25.65,67.5,4,4,1
+Truck_8,Detour,No Delay,In Transit,3,21.67,76.67,24.37,62.8,0,0,0
+Truck_1,Clear,Weather,Delayed,1,20.0,90.6,22.5,74.0,1,0,0
+Truck_10,Clear,No Delay,Delivered,1,33.0,74.3,19.3,68.6,0,1,0
+Truck_3,Heavy,Traffic,Delayed,5,49.8,88.62,25.6,67.74,5,5,1
+Truck_9,Detour,Mechanical Failure,Delayed,6,38.67,80.4,23.02,58.48,6,4,1
+Truck_9,Clear,No Delay,In Transit,2,16.5,79.35,27.85,55.15,0,0,1
+Truck_1,Heavy,Mechanical Failure,Delayed,3,40.33,85.03,23.97,69.47,3,3,1
+Truck_8,Heavy,Traffic,Delivered,7,37.57,74.06,22.33,68.07,7,4,0
+Truck_2,Detour,Traffic,Delivered,5,34.2,81.56,24.66,65.4,0,3,0
+Truck_3,Detour,Mechanical Failure,Delayed,1,23.0,99.6,22.7,63.3,1,0,0
+Truck_10,Detour,Mechanical Failure,Delivered,1,44.0,85.8,23.7,53.5,0,1,0
+Truck_5,Clear,No Delay,In Transit,3,33.67,82.43,23.17,66.03,0,2,1
+Truck_6,Detour,Mechanical Failure,In Transit,3,27.0,80.47,23.13,66.83,0,1,0
+Truck_3,Detour,Mechanical Failure,Delivered,4,32.25,79.4,23.42,71.08,0,3,0
+Truck_6,Clear,Traffic,Delayed,1,33.0,70.4,25.3,57.4,1,1,0
+Truck_5,Detour,Mechanical Failure,In Transit,3,45.67,87.07,24.0,63.93,0,3,0
+Truck_9,Detour,Mechanical Failure,Delivered,3,28.67,86.4,25.33,70.53,0,1,0
+Truck_7,Clear,Mechanical Failure,In Transit,1,21.0,67.5,20.5,75.2,0,0,0
+Truck_2,Clear,Mechanical Failure,In Transit,2,37.0,78.7,25.6,65.25,0,1,1
+Truck_10,Heavy,Mechanical Failure,In Transit,1,57.0,96.8,29.2,65.0,1,1,1
+Truck_5,Heavy,No Delay,Delayed,4,35.75,77.58,23.73,73.85,4,3,0
+Truck_7,Heavy,No Delay,In Transit,4,39.25,73.98,25.9,72.4,4,2,1
+Truck_4,Detour,Weather,Delayed,3,48.33,72.63,27.33,68.83,3,3,1
+Truck_6,Detour,Mechanical Failure,Delayed,1,46.0,62.6,21.4,62.9,1,1,0
+Truck_6,Heavy,Traffic,In Transit,2,43.5,87.9,26.5,58.75,2,2,1
+Truck_1,Clear,Mechanical Failure,In Transit,1,19.0,96.9,26.2,65.0,0,0,0
+Truck_9,Heavy,No Delay,Delayed,2,34.5,71.0,22.75,63.2,2,1,0
+Truck_2,Heavy,No Delay,Delivered,4,30.5,77.0,22.53,62.85,4,2,0
+Truck_1,Heavy,Weather,Delayed,3,40.33,75.53,21.8,70.07,3,2,0
+Truck_4,Detour,Traffic,Delivered,2,38.0,82.75,24.1,59.9,0,2,0
+Truck_8,Detour,Mechanical Failure,In Transit,4,43.0,78.32,24.25,68.25,0,4,1
+Truck_1,Heavy,Traffic,Delivered,2,57.0,74.5,25.3,66.75,2,2,0
+Truck_2,Heavy,Traffic,In Transit,1,54.0,74.5,20.0,61.0,1,1,0
+Truck_5,Detour,Mechanical Failure,Delayed,2,30.0,68.95,18.8,61.7,2,1,0
+Truck_3,Detour,Traffic,Delayed,4,43.25,82.02,27.58,61.78,4,4,1
+Truck_8,Clear,Mechanical Failure,Delivered,1,19.0,85.5,22.8,52.8,0,0,0
+Truck_10,Heavy,Mechanical Failure,Delayed,4,32.5,83.28,25.95,57.28,4,3,1
+Truck_9,Clear,Weather,In Transit,3,33.0,85.67,25.1,59.1,0,2,1
+Truck_2,Clear,No Delay,In Transit,3,42.67,77.03,23.13,75.1,0,2,1
+Truck_4,Heavy,Traffic,Delivered,2,34.0,81.0,22.9,67.35,2,1,0
+Truck_1,Heavy,No Delay,In Transit,2,42.5,78.4,21.55,68.35,2,1,0
+Truck_8,Heavy,Weather,Delayed,3,23.33,91.27,22.87,70.1,3,1,0
+Truck_9,Clear,Weather,Delivered,1,12.0,86.9,26.8,60.5,0,0,0
+Truck_7,Heavy,Weather,In Transit,2,31.0,74.9,25.95,71.55,2,1,1
+Truck_4,Clear,No Delay,In Transit,2,49.0,83.35,23.9,64.6,0,2,1
+Truck_5,Detour,Mechanical Failure,Delivered,4,37.0,73.18,24.95,57.07,0,3,2
+Truck_8,Heavy,No Delay,Delayed,2,16.5,80.1,25.15,59.25,2,0,0
+Truck_6,Detour,Weather,In Transit,1,49.0,70.7,27.4,58.9,0,1,0
+Truck_8,Clear,Traffic,Delayed,2,51.5,67.55,24.2,72.55,2,2,0
+Truck_4,Heavy,Weather,Delivered,2,46.0,78.2,24.5,51.8,2,2,0
+Truck_2,Detour,No Delay,Delayed,4,40.5,80.98,20.53,70.63,4,3,0
+Truck_4,Clear,Weather,In Transit,3,22.0,83.97,27.1,59.7,0,1,2
+Truck_2,Detour,Weather,In Transit,2,41.5,66.1,26.85,54.6,0,2,0
+Truck_4,Clear,Mechanical Failure,Delivered,5,38.8,84.52,23.8,62.38,0,4,1
+Truck_9,Detour,Weather,Delayed,1,23.0,83.0,18.0,63.6,1,0,0
+Truck_1,Detour,Mechanical Failure,Delivered,1,53.0,97.5,20.3,51.2,0,1,0
+Truck_10,Heavy,No Delay,Delayed,2,41.0,61.9,26.9,58.4,2,1,1
+Truck_4,Clear,Traffic,In Transit,2,41.0,69.25,22.95,62.5,0,2,0
+Truck_4,Heavy,Mechanical Failure,In Transit,1,50.0,73.4,23.1,56.0,1,1,0
+Truck_8,Heavy,Weather,In Transit,1,53.0,62.1,26.3,70.4,1,1,0
+Truck_6,Clear,Traffic,Delivered,1,54.0,71.9,25.4,62.0,0,1,0
+Truck_1,Heavy,Traffic,In Transit,1,34.0,98.2,19.3,70.6,1,1,0
+Truck_7,Clear,No Delay,Delayed,4,27.5,76.67,21.13,63.58,4,1,0
+Truck_9,Detour,Traffic,In Transit,2,43.0,73.2,21.25,61.95,0,2,0
+Truck_8,Heavy,Mechanical Failure,Delayed,5,32.2,86.4,22.06,64.34,5,3,0
+Truck_3,Heavy,Mechanical Failure,Delayed,4,35.5,83.25,24.3,58.47,4,3,1
+Truck_2,Clear,Weather,Delayed,4,54.5,89.38,21.4,63.95,4,4,0
+Truck_9,Heavy,Mechanical Failure,In Transit,2,43.5,93.65,25.1,72.55,2,2,0
+Truck_4,Clear,No Delay,Delivered,6,47.83,81.67,22.32,65.22,0,6,0
+Truck_5,Heavy,No Delay,Delivered,2,34.0,69.5,26.45,52.35,2,1,1
+Truck_5,Clear,Weather,In Transit,5,26.0,76.66,23.58,64.98,0,2,0
+Truck_6,Heavy,No Delay,Delayed,4,33.75,81.0,23.88,58.35,4,2,1
+Truck_6,Clear,No Delay,Delivered,1,12.0,95.1,20.7,72.4,0,0,0
+Truck_3,Heavy,No Delay,In Transit,1,12.0,65.7,27.7,75.0,1,0,0
+Truck_7,Detour,Weather,In Transit,2,34.0,91.35,21.95,66.0,0,1,0
+Truck_10,Heavy,Traffic,Delivered,3,36.0,80.1,25.87,61.33,3,2,1
+Truck_2,Heavy,Mechanical Failure,Delivered,2,36.0,82.65,22.9,64.9,2,1,0
+Truck_2,Clear,Traffic,Delivered,5,42.0,83.06,23.22,69.56,0,3,1
+Truck_3,Clear,Weather,Delivered,1,31.0,73.5,29.5,61.9,0,1,1
+Truck_8,Heavy,No Delay,Delivered,1,30.0,94.6,29.4,76.3,1,1,1
+Truck_2,Detour,Mechanical Failure,In Transit,2,39.0,78.2,22.5,60.45,0,1,0
+Truck_3,Heavy,Weather,In Transit,3,36.33,91.2,25.9,69.67,3,2,1
+Truck_9,Detour,Traffic,Delivered,3,26.33,86.63,25.03,67.33,0,1,0
+Truck_4,Heavy,Weather,Delayed,1,34.0,88.7,26.5,69.3,1,1,0
+Truck_5,Detour,Weather,In Transit,2,34.5,66.1,21.35,75.3,0,1,0
+Truck_6,Detour,No Delay,Delayed,5,32.2,79.98,24.14,63.34,5,3,0
+Truck_2,Detour,Weather,Delayed,6,33.67,84.5,24.9,64.8,6,5,1
+Truck_10,Detour,Weather,Delivered,2,23.0,74.85,21.95,64.3,0,0,0
+Truck_2,Heavy,Mechanical Failure,In Transit,4,40.5,87.13,24.03,64.98,4,4,0
+Truck_3,Heavy,No Delay,Delayed,3,44.67,73.6,19.77,70.27,3,2,0
+Truck_9,Detour,No Delay,In Transit,3,54.33,73.37,22.47,70.2,0,3,0
+Truck_7,Heavy,Traffic,In Transit,4,33.75,81.07,25.13,59.93,4,2,0
+Truck_10,Clear,Weather,Delivered,5,42.2,81.28,22.36,62.98,0,4,1
+Truck_3,Heavy,Mechanical Failure,In Transit,2,41.5,76.15,26.9,75.3,2,1,1
+Truck_3,Detour,Mechanical Failure,In Transit,1,59.0,86.7,22.7,66.1,0,1,0
+Truck_3,Clear,Traffic,In Transit,1,18.0,95.8,30.0,60.0,0,0,1
+Truck_10,Heavy,Weather,In Transit,2,31.5,72.6,22.65,63.8,2,1,0
+Truck_10,Detour,No Delay,In Transit,3,36.67,86.4,24.43,65.47,0,3,1
+Truck_8,Detour,Weather,In Transit,9,27.11,83.39,23.66,64.27,0,4,2
+Truck_2,Clear,Mechanical Failure,Delayed,2,31.5,78.9,21.7,77.55,2,1,0
+Truck_5,Clear,Weather,Delayed,2,48.5,82.45,22.55,63.0,2,2,0
+Truck_4,Clear,Weather,Delayed,7,29.29,84.97,22.33,62.7,7,3,0
+Truck_2,Heavy,Weather,Delayed,3,33.33,79.23,25.4,65.53,3,1,0
+Truck_9,Heavy,Weather,In Transit,2,30.5,95.05,23.95,71.5,2,1,0
+Truck_9,Clear,Traffic,In Transit,1,24.0,84.6,25.4,53.8,0,0,0
+Truck_7,Clear,Weather,In Transit,6,31.5,73.65,23.08,68.55,0,3,0
+Truck_7,Detour,Mechanical Failure,Delayed,3,43.0,84.33,24.1,73.1,3,3,0
+Truck_6,Clear,Weather,Delivered,5,39.2,70.96,25.94,63.02,0,4,2
+Truck_1,Detour,Weather,In Transit,5,26.2,75.38,24.42,66.48,0,2,0
+Truck_7,Heavy,Weather,Delayed,3,51.67,74.63,22.3,68.47,3,3,0
+Truck_5,Clear,No Delay,Delivered,2,32.5,70.2,20.15,69.2,0,1,0
+Truck_3,Detour,Weather,In Transit,4,22.0,73.75,23.07,65.77,0,1,0
+Truck_1,Detour,Traffic,Delayed,1,10.0,73.0,26.6,74.1,1,0,0
+Truck_6,Detour,No Delay,In Transit,5,37.0,83.86,23.26,63.62,0,4,0
+Truck_6,Heavy,Weather,Delayed,3,39.0,79.33,21.27,64.03,3,2,0
+Truck_10,Heavy,Mechanical Failure,Delivered,4,20.0,78.9,24.05,72.45,4,1,0
+Truck_10,Detour,Traffic,Delayed,6,34.67,76.28,22.82,60.2,6,4,0
+Truck_9,Detour,No Delay,Delayed,3,26.33,77.13,23.03,56.47,3,1,1
+Truck_10,Clear,No Delay,In Transit,3,35.0,92.57,22.5,59.17,0,2,0
+Truck_4,Detour,Traffic,In Transit,2,52.5,78.55,20.6,71.55,0,2,0
+Truck_7,Clear,Traffic,Delivered,2,29.5,70.1,19.25,71.5,0,1,0
+Truck_6,Clear,No Delay,Delayed,3,23.0,70.27,23.9,69.63,3,1,1
+Truck_7,Clear,Traffic,Delayed,1,51.0,73.7,28.6,72.4,1,1,1
+Truck_5,Heavy,Weather,In Transit,2,31.5,80.45,24.85,57.9,2,2,0
+Truck_1,Clear,Mechanical Failure,Delayed,5,23.6,77.44,24.34,64.38,5,2,0
+Truck_10,Heavy,Weather,Delayed,2,31.5,82.05,22.15,58.75,2,1,0
+Truck_6,Heavy,No Delay,Delivered,5,34.6,75.98,21.84,74.08,5,2,0
+Truck_7,Clear,Mechanical Failure,Delayed,5,20.4,84.82,23.98,64.4,5,1,0
+Truck_5,Heavy,Traffic,Delivered,2,31.5,78.35,19.85,69.75,2,1,0
+Truck_9,Heavy,Weather,Delayed,3,35.33,93.43,23.73,65.8,3,2,1
+Truck_9,Detour,No Delay,Delivered,4,39.25,88.75,21.55,74.25,0,3,0
+Truck_1,Clear,Weather,Delivered,1,56.0,72.8,28.9,63.7,0,1,1
+Truck_10,Heavy,Weather,Delivered,3,15.33,89.67,23.3,73.8,3,0,1
+Truck_6,Heavy,Traffic,Delivered,3,39.0,83.67,24.73,66.57,3,3,1
+Truck_4,Detour,Weather,Delivered,3,48.0,81.7,23.27,62.2,0,3,0
+Truck_3,Clear,Weather,In Transit,2,38.5,86.5,28.95,54.55,0,2,2
+Truck_10,Clear,Mechanical Failure,In Transit,2,47.0,94.6,21.05,61.9,0,2,0
+Truck_6,Heavy,Mechanical Failure,In Transit,1,41.0,88.9,23.2,68.1,1,1,0
+Truck_3,Detour,No Delay,Delayed,3,21.33,73.27,25.03,71.37,3,1,0
+Truck_9,Heavy,Mechanical Failure,Delayed,3,35.67,75.47,23.67,62.9,3,2,1
+Truck_3,Clear,Traffic,Delayed,2,31.0,88.4,24.45,57.45,2,1,0
+Truck_5,Heavy,Mechanical Failure,Delayed,2,30.5,79.45,20.2,65.3,2,1,0
+Truck_8,Heavy,Mechanical Failure,Delivered,4,36.5,80.15,24.43,60.5,4,3,0
+Truck_6,Detour,Weather,Delivered,3,34.33,76.6,20.97,60.67,0,2,0
+Truck_3,Detour,Weather,Delayed,3,36.0,74.7,21.97,65.03,3,2,0
+Truck_4,Heavy,Mechanical Failure,Delivered,6,31.83,73.2,22.45,64.68,6,3,1
+Truck_8,Detour,No Delay,Delayed,4,33.25,93.03,23.2,64.55,4,2,0
+Truck_1,Heavy,No Delay,Delivered,2,21.5,77.3,27.65,67.15,2,1,1
+Truck_2,Heavy,Weather,In Transit,3,21.0,79.47,22.77,64.83,3,1,0
+Truck_4,Heavy,No Delay,In Transit,4,33.0,82.63,23.92,59.4,4,2,0
+Truck_8,Detour,Weather,Delayed,4,26.25,76.3,24.85,60.22,4,1,0
+Truck_10,Detour,No Delay,Delayed,5,33.4,75.62,24.22,66.12,5,2,1
+Truck_7,Detour,Weather,Delayed,3,30.0,72.27,25.7,72.43,3,2,1
+Truck_1,Detour,Weather,Delivered,3,33.0,76.53,24.8,56.13,0,2,1
+Truck_5,Detour,No Delay,Delivered,2,23.0,66.9,19.25,70.65,0,1,0
+Truck_7,Detour,Traffic,Delivered,3,56.33,80.43,26.17,69.4,0,3,1
+Truck_5,Clear,Weather,Delivered,3,44.33,85.47,21.57,64.37,0,2,0
+Truck_2,Clear,No Delay,Delivered,1,34.0,89.5,29.1,55.9,0,1,1
+Truck_10,Clear,Traffic,In Transit,3,25.33,79.3,22.87,73.3,0,1,0
+Truck_3,Heavy,Traffic,Delivered,6,34.0,75.77,25.57,71.43,6,3,0
+Truck_5,Detour,Traffic,In Transit,2,35.5,68.1,21.85,60.65,0,2,0
+Truck_2,Heavy,Weather,Delivered,4,18.0,86.75,21.98,62.27,4,0,0
+Truck_1,Heavy,No Delay,Delayed,4,39.75,76.6,20.45,70.52,4,3,0
+Truck_9,Heavy,No Delay,In Transit,4,36.0,78.03,21.13,75.55,4,3,0
+Truck_2,Detour,Weather,Delivered,3,41.67,81.4,25.57,66.73,0,3,0
+Truck_5,Detour,Traffic,Delivered,5,44.8,77.84,24.68,70.2,0,5,0
+Truck_5,Clear,Mechanical Failure,Delayed,2,46.0,74.4,27.15,54.05,2,2,0
+Truck_2,Heavy,Traffic,Delayed,3,19.0,78.8,25.83,61.33,3,0,0
+Truck_9,Heavy,No Delay,Delivered,2,29.0,80.55,25.75,73.0,2,1,1
+Truck_1,Heavy,Weather,In Transit,3,48.33,77.83,22.43,65.03,3,3,0
+Truck_4,Clear,Traffic,Delivered,3,28.33,79.6,25.87,67.03,0,1,1
+Truck_1,Clear,No Delay,In Transit,5,38.2,85.42,24.62,63.56,0,4,1
+Truck_10,Clear,Mechanical Failure,Delayed,4,32.0,77.43,20.83,70.93,4,2,0
+Truck_9,Heavy,Mechanical Failure,Delivered,1,24.0,99.7,22.9,64.0,1,0,0
+Truck_10,Clear,No Delay,Delayed,2,34.5,67.2,25.7,74.05,2,1,1
+Truck_8,Clear,Traffic,Delivered,2,30.0,65.6,24.55,75.2,0,1,0
+Truck_7,Clear,Weather,Delayed,1,30.0,93.9,27.9,64.4,1,1,0
+Truck_4,Heavy,Traffic,In Transit,3,22.33,73.1,19.87,60.7,3,0,0
+Truck_7,Detour,No Delay,Delivered,3,42.67,80.27,25.53,65.37,0,3,0
+Truck_6,Clear,Mechanical Failure,Delivered,3,37.67,75.93,20.9,67.53,0,2,0
+Truck_8,Clear,No Delay,In Transit,3,29.67,80.93,21.1,65.13,0,1,0
+Truck_7,Heavy,No Delay,Delivered,3,35.33,78.67,20.93,65.3,3,2,0
+Truck_5,Clear,Traffic,Delivered,3,32.67,67.53,24.53,66.4,0,1,1
+Truck_6,Clear,Mechanical Failure,In Transit,4,39.0,84.55,25.3,66.85,0,2,1
+Truck_4,Detour,No Delay,Delayed,3,41.67,85.0,20.87,59.63,3,3,0
+Truck_2,Clear,Mechanical Failure,Delivered,2,41.5,69.9,23.45,59.8,0,1,0
+Truck_8,Clear,Weather,Delayed,5,35.6,75.26,21.78,58.2,5,4,0
+Truck_6,Detour,Weather,Delayed,5,31.4,86.44,23.44,68.08,5,3,1
+Truck_8,Detour,Traffic,Delayed,2,41.0,73.85,26.05,57.55,2,2,1
+Truck_4,Detour,Traffic,Delayed,4,23.25,74.85,22.95,68.15,4,1,1
+Truck_7,Detour,Weather,Delivered,6,39.83,83.37,26.5,60.73,0,5,2
+Truck_8,Clear,Mechanical Failure,Delayed,6,37.5,85.38,23.13,65.38,6,4,1
+Truck_7,Detour,Mechanical Failure,In Transit,2,43.0,87.15,25.15,56.75,0,2,1
+Truck_3,Heavy,Traffic,In Transit,4,26.75,74.0,24.73,71.48,4,1,0
+Truck_5,Detour,No Delay,In Transit,1,13.0,83.2,22.6,77.1,0,0,0
+Truck_9,Heavy,Traffic,Delayed,2,55.0,80.4,18.15,69.15,2,2,0
+Truck_4,Heavy,Weather,In Transit,4,36.75,82.05,23.53,65.25,4,2,0
+Truck_9,Detour,Weather,Delivered,1,15.0,68.3,26.5,56.2,0,0,0
+Truck_1,Clear,No Delay,Delayed,2,49.5,91.45,23.5,71.0,2,2,0
+Truck_1,Clear,Traffic,Delayed,2,14.0,80.3,25.9,56.85,2,0,0
+Truck_7,Detour,No Delay,Delayed,6,27.67,79.32,23.27,65.38,6,1,0
+Truck_6,Heavy,Weather,In Transit,5,30.8,87.06,24.34,59.38,5,3,0
+Truck_6,Clear,Traffic,In Transit,6,40.17,81.83,23.83,59.83,0,6,1
+Truck_3,Clear,No Delay,Delayed,3,41.33,79.3,24.1,71.5,3,3,0
+Truck_9,Heavy,Traffic,In Transit,2,23.0,77.45,23.3,73.85,2,0,1
+Truck_4,Clear,Weather,Delivered,1,59.0,67.2,23.5,72.0,0,1,0
+Truck_1,Heavy,Traffic,Delayed,2,53.0,98.8,23.35,70.15,2,2,1
+Truck_4,Detour,No Delay,Delivered,2,31.0,76.35,19.65,72.1,0,1,0
+Truck_7,Clear,Mechanical Failure,Delivered,3,40.67,84.4,23.0,65.9,0,2,0
+Truck_1,Clear,Mechanical Failure,Delivered,3,23.33,83.5,22.47,62.67,0,1,0
+Truck_2,Detour,Traffic,In Transit,2,32.0,71.6,21.65,73.0,0,1,0
+Truck_1,Clear,Traffic,Delivered,4,42.25,79.93,25.97,72.2,0,3,2
+Truck_5,Heavy,Traffic,In Transit,1,35.0,90.8,26.7,72.2,1,1,0
+Truck_3,Clear,No Delay,Delivered,2,41.0,77.25,27.55,68.35,0,2,1
+Truck_2,Clear,Weather,Delivered,3,33.0,71.93,23.87,74.6,0,1,1
+Truck_8,Clear,Weather,In Transit,3,32.67,79.0,25.27,64.33,0,1,1
+Truck_7,Heavy,Traffic,Delayed,3,41.33,82.17,21.8,61.27,3,3,0
+Truck_9,Clear,Traffic,Delayed,2,50.5,75.45,21.95,61.65,2,2,0
+Truck_4,Heavy,Mechanical Failure,Delayed,4,21.5,83.15,25.03,63.1,4,1,1
+Truck_4,Clear,Mechanical Failure,In Transit,1,39.0,64.4,23.0,55.7,0,1,0
+Truck_1,Detour,No Delay,Delivered,2,54.0,95.35,23.8,76.3,0,2,0
+Truck_1,Detour,Weather,Delayed,3,36.67,80.03,23.5,65.13,3,2,0
+Truck_10,Clear,Traffic,Delivered,1,57.0,60.6,26.9,79.8,0,1,0
+Truck_8,Clear,No Delay,Delivered,1,19.0,66.3,24.4,79.5,0,0,0
+Truck_4,Clear,No Delay,Delayed,1,32.0,73.3,20.7,75.4,1,1,0
+Truck_9,Clear,Weather,Delayed,4,43.25,72.4,22.35,62.4,4,3,0
+Truck_6,Clear,No Delay,In Transit,4,30.25,84.43,25.67,59.13,0,2,2
+Truck_6,Heavy,Weather,Delivered,3,29.0,74.7,26.2,63.13,3,2,1
+Truck_1,Heavy,Weather,Delivered,2,28.5,75.75,25.2,72.45,2,1,0
+Truck_8,Clear,Mechanical Failure,In Transit,3,36.33,75.0,24.2,58.67,0,2,0
+Truck_9,Clear,Mechanical Failure,Delivered,5,52.2,78.68,24.42,59.56,0,5,1
+Truck_8,Detour,Mechanical Failure,Delayed,3,28.33,94.17,23.13,68.83,3,1,1
+Truck_5,Heavy,Weather,Delayed,5,32.8,69.94,27.06,62.62,5,3,4
+Truck_7,Heavy,Mechanical Failure,Delivered,3,44.33,72.0,19.2,60.23,3,3,0
+Truck_6,Heavy,Traffic,Delayed,2,33.0,82.4,21.3,68.35,2,1,0
+Truck_9,Clear,Traffic,Delivered,3,34.33,80.03,24.33,64.93,0,2,0
+Truck_1,Heavy,Mechanical Failure,In Transit,2,50.0,78.5,22.8,66.5,2,2,0
+Truck_8,Detour,Weather,Delivered,2,28.0,83.2,22.15,53.05,0,1,0
+Truck_7,Clear,Weather,Delivered,3,36.0,87.47,19.5,70.63,0,2,0
+Truck_10,Heavy,Traffic,Delayed,1,38.0,78.9,23.7,51.2,1,1,0
